@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Paul Awolesi.
-- 👀 I’m interested in python, reactjs, software development, data science.
-- 🌱 I’m currently build personal python projects.
-- 💞️ I’m looking to collaborate on any python, react based project.
-- 📫 You can react on twitter @PAwolesi or email awolesiboluwatife@gmail.com
+- 👀 I’m interested in Python, Reactjs, software development, data science and blockchain.
+- 🌱 I’m currently building personal Python projects.
+- 💞️ I’m looking to collaborate on any Python, react-based and blockchain project.
+- 📫 You can react on Twitter @PAwolesi or email awolesiboluwatife@gmail.com
 
 <!---
 Ocolus1/Ocolus1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
