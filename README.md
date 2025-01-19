@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Paul Awolesi.<br>👀 I’m interested in Python, Reactjs, software development, data science and blockchain.<br>🌱 I’m currently building personal Python projects.<br>💞️ I’m looking to collaborate on any Python, react-based and blockchain project.<br>📫 You can react on Twitter @PAwolesi or email awolesiboluwatife@gmail.com
+👋 Hi, I’m Paul Awolesi.<br>👀 I’m interested in Python, Reactjs, software development, data science and blockchain.<br>🌱 I’m currently building personal Python projects.<br>💞️ I’m looking to collaborate on any Python, react-based and blockchain project.<br>📫 You can contact my email bpawolesi@gmail.com
 
 
 ## 🌐 Socials:
